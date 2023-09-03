@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Daniel Nobre</h1>
 
 ![Linkedin Capa Binary](https://github.com/Dan-Nobre/Dan-Nobre/assets/55868687/9aa65b95-1a62-4f9f-99b1-017f41fbaada)
