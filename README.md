@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Daniel Nobre</h1>
-![Dan-Nobre_Cover](https://github.com/Dan-Nobre/Dan-Nobre/blob/main/Dan-Nobre_Cover.png)
+<div align="center>" <img src="https://raw.githubusercontent.com/Dan-Nobre/Dan-Nobre/main/Dan-Nobre_Cover.png"> </div>
 <h3 align="center">I'm a developer fanatic about mobile development and design from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-nobre&label=Profile%20views&color=0e75b6&style=flat" alt="dan-nobre" /> </p>
