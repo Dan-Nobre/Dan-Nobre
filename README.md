@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Nobre</h1>
 
-![Linkedin Capa Binary](https://github.com/Dan-Nobre/Dan-Nobre/assets/55868687/9aa65b95-1a62-4f9f-99b1-017f41fbaada)
+![Dan-Nobre Cover Giphy](https://github.com/Dan-Nobre/Dan-Nobre/assets/55868687/7ff0d7ac-22f6-49dd-b26f-475c3b304972)
 
 <h3 align="center">I'm a developer fanatic about mobile development and design from Brazil</h3>
 
