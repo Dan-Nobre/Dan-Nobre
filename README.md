@@ -7,15 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-nobre&label=Profile%20views&color=0e75b6&style=flat" alt="dan-nobre" /> </p>
 
-- 🔭 I’m currently working on **NDS Lab in IFCE - Campus Maracanaú**
-
-- 🌱 I’m currently learning **Flutter, React and Desing Skills for mobile and web.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Dan-Nobre](https://github.com/Dan-Nobre)
-
-- 📝 I regularly write articles on [https://dev.to/danishin](https://dev.to/danishin)
-
-- 💬 Ask me about **Computer Science, Mobile Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
