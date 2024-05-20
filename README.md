@@ -2,7 +2,7 @@
 
 ![Dan-Nobre Cover Giphy](https://github.com/Dan-Nobre/Dan-Nobre/assets/55868687/7ff0d7ac-22f6-49dd-b26f-475c3b304972)
 
-<h3 align="center">I'm a developer fanatic about mobile development and design from Brazil</h3>
+<h3 align="center">I'm a developer fanatic about mobile development, design and Pixel Art from Brazil</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-nobre&label=Profile%20views&color=0e75b6&style=flat" alt="dan-nobre" /> </p>
