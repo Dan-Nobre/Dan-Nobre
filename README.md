@@ -1,10 +1,6 @@
-
 ![Dan-Nobre Cover LinkedIn (2)](https://github.com/Dan-Nobre/Dan-Nobre/assets/55868687/a43f382f-2d75-4a83-8fad-0a540b9d06be)
 
 <h1 align="center">Hi 😁, I'm Daniel Nobre</h1>
-
-<h3 align="center"></h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-nobre&label=Profile%20views&color=0e75b6&style=flat" alt="dan-nobre" /> </p>
 
