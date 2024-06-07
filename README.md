@@ -14,7 +14,7 @@
     </td>
     <td style="border: 0";>
       <h3>
-        👨🏻‍💻 🍎  iOS Developer, Design and Pixel Artist
+        👨🏻‍💻 🍎  Mobile Developer, Design and Pixel Artist
       </h3>
       <img src="https://img.shields.io/static/v1?label=Overview&message=Daniel Nobre&color=ccd1f1&style=for-the-badge&logo=GitHub" alt="Static GitHub">
       <br>
