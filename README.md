@@ -1,9 +1,9 @@
-<h1 align="center">Hi 😁, I'm Daniel Nobre</h1>
 
 ![Dan-Nobre Cover LinkedIn (2)](https://github.com/Dan-Nobre/Dan-Nobre/assets/55868687/a43f382f-2d75-4a83-8fad-0a540b9d06be)
 
+<h1 align="center">Hi 😁, I'm Daniel Nobre</h1>
 
-<h3 align="center">🍎 iOS Developer, Design and Pixel Artist</h3>
+<h3 align="center"></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-nobre&label=Profile%20views&color=0e75b6&style=flat" alt="dan-nobre" /> </p>
@@ -18,8 +18,11 @@
     </td>
     <td style="border: 0";>
       <h3>
-        👨🏻‍💻 🍎 Mobile developer currently studying Swift and SwiftUI 
+        👨🏻‍💻 🍎  iOS Developer, Design and Pixel Artist
       </h3>
+      <img src="https://img.shields.io/static/v1?label=Overview&message=Daniel Nobre&color=ccd1f1&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+      <br>
+      <br>
       <p>
         🌙  I'm from Brazil, and I'm studying Computer Science, love trying out new things and having fun playing games online, listening to music, learning pixel art, and going to the beach. 
       </p>
