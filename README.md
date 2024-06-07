@@ -34,6 +34,7 @@
          <li>
           🗂️ <a href="https://dev.to/danishin">Follow me on Dev.to</a>
         </li>
+        <br>
       </ul>
     </td>
   </tr>
