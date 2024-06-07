@@ -20,7 +20,7 @@
       <br>
       <br>
       <p>
-        🌙  From Brazil, and I'm studying Computer Science, love trying out new things and having fun playing games online, listening to music, learning pixel art, and going to the beach. 
+        🌙  From Brazil, I'm studying Computer Science, love trying out new things and having fun playing games online, listening to music, learning pixel art, and going to the beach. 
       </p>
       <p>I'm also starting to create content in <a href="https://medium.com/@dan-nobre">@Dan-nobre</a></p>
       <h3>Other places you can find me</h3>
