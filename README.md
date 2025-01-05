@@ -1,11 +1,10 @@
 <h1 align="center">Hi 😁, I'm Daniel Nobre</h1>
 
-![Dan-Nobre Cover LinkedIn (2)](https://github.com/Dan-Nobre/Dan-Nobre/assets/55868687/a43f382f-2d75-4a83-8fad-0a540b9d06be)
+![GitHub Animation Final (1)](https://github.com/user-attachments/assets/f47c2b90-6ed0-4545-8891-05cb3e5e16bc)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-nobre&label=Profile%20views&color=0e75b6&style=flat" alt="dan-nobre" /> </p>
 
-
-![Banner 01](https://github.com/Dan-Nobre/Dan-Nobre/assets/55868687/4026115f-09c2-434a-9cd6-252d22c1975e)
+<img width="1584" alt="GithubCover2" src="https://github.com/user-attachments/assets/0c6d5562-ad7c-4834-9a43-f2b52e26a127" />
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -47,7 +46,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=apple,swift,figma,flutter,github,git,react,dart,js,c,html,css&theme=light)](https://skillicons.dev)
 
-![Banner02](https://github.com/Dan-Nobre/Dan-Nobre/assets/55868687/b386b521-5db9-4a5a-a028-7ec16787fc30)
+<img width="1584" alt="GithubCover3" src="https://github.com/user-attachments/assets/c21d46b0-4d58-44bd-bd19-c73ccb4c0110" />
 
 
 
