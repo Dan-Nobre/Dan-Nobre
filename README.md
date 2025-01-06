@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-nobre&label=Profile%20views&color=0e75b6&style=flat" alt="dan-nobre" /> </p>
 
 <img width="1584" alt="GithubCover2" src="https://github.com/user-attachments/assets/0c6d5562-ad7c-4834-9a43-f2b52e26a127" />
+<br> </br>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
