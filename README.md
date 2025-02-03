@@ -10,7 +10,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://imgur.com/a/3YnBoLu" /> 
+     <img width="512" alt="Danishin Emoji" src="https://github.com/user-attachments/assets/344960da-214a-45cd-bacd-4a808f183258" />
     </td>
     <td style="border: 0";>
       <h3>
