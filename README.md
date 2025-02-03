@@ -10,7 +10,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://i.imgur.com/pPiT8zd.png" />
+      <img width="400" src="https://imgur.com/a/3YnBoLu" /> 
     </td>
     <td style="border: 0";>
       <h3>
