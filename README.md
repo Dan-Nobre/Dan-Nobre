@@ -7,7 +7,7 @@
 From Fortaleza, Brazil. Computer Science student, Apple Developer Academy alumni and iOS & Android mentor. Off the keyboard: pixel art, anime and the beach. 🌊
 
 <p align="center">
-  <img src="assets/stack.png" alt="Stack: Swift, SwiftUI, Kotlin, Jetpack Compose, React Native, TypeScript, Next.js, Figma" width="100%">
+  <img src="assets/stack.png" alt="Stack & tools: Swift, SwiftUI, SwiftData, Kotlin, Jetpack Compose, React Native, Dart / Flutter, JavaScript, Figma, Git & GitHub" width="100%">
 </p>
 
 ### Featured projects
@@ -32,7 +32,7 @@ Notes on design systems, mobile and what I learn along the way → [dannobre.dev
 </p>
 
 <p align="center">
-  <img src="assets/footer.png" alt="Thanks for stopping by!" width="100%">
+  <img src="assets/footer.png" alt="echo $MOTTO — &quot;First, solve the problem. Then, write the code.&quot; — John Johnson" width="100%">
 </p>
 
 <p align="center">
