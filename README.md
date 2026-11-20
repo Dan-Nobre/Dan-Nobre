@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://dannobre.dev"><img src="assets/header.png" alt="Hi, I'm Daniel Nobre — Mobile Developer & UX/UI Designer. I build iOS, Android and React Native apps and write about what I learn along the way." width="100%"></a>
+  <a href="https://www.dannobre.com.br"><img src="assets/header.png" alt="Hi, I'm Daniel Nobre — Mobile Developer & UX/UI Designer. I build iOS, Android and React Native apps and write about what I learn along the way." width="100%"></a>
 </p>
 
 ### About me
@@ -13,19 +13,19 @@ From Fortaleza, Brazil. Computer Science student, Apple Developer Academy alumni
 ### Featured projects
 
 <p align="center">
-  <a href="https://dannobre.dev/projects/gympsi"><img src="assets/project-gympsi.png" alt="Gympsi" width="31%"></a>
-  <a href="https://dannobre.dev/projects/lazarus-into-the-dungeon"><img src="assets/project-lazarus.png" alt="Lazarus, Into the Dungeon" width="34%"></a>
-  <a href="https://dannobre.dev/projects"><img src="assets/project-dojodoro.png" alt="Dojodoro" width="31%"></a>
+  <a href="https://www.dannobre.com.br/projects/gympsi"><img src="assets/project-gympsi.png" alt="Gympsi" width="31%"></a>
+  <a href="https://www.dannobre.com.br/projects/lazarus-into-the-dungeon"><img src="assets/project-lazarus.png" alt="Lazarus, Into the Dungeon" width="34%"></a>
+  <a href="https://www.dannobre.com.br/projects"><img src="assets/project-dojodoro.png" alt="Dojodoro" width="31%"></a>
 </p>
 
 ### Latest from the blog
 
-Notes on design systems, mobile and what I learn along the way → [dannobre.dev/blog](https://dannobre.dev/blog)
+Notes on design systems, mobile and what I learn along the way → [dannobre.com.br/blog](https://www.dannobre.com.br/blog)
 
 ### Let's connect
 
 <p align="center">
-  <a href="https://dannobre.dev"><img src="assets/btn-site.png" alt="dannobre.dev" height="44"></a>
+  <a href="https://www.dannobre.com.br"><img src="assets/btn-site.png" alt="dannobre.com.br" height="44"></a>
   <a href="https://www.linkedin.com/in/dan-nobre/"><img src="assets/btn-linkedin.png" alt="LinkedIn" height="44"></a>
   <a href="https://medium.com/@dan-nobre"><img src="assets/btn-medium.png" alt="Medium" height="44"></a>
   <a href="https://www.behance.net/dan-nobre"><img src="assets/btn-behance.png" alt="Behance" height="44"></a>
