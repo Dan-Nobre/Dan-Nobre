@@ -1,56 +1,40 @@
-<h1 align="center">Hi 😁, I'm Daniel Nobre</h1>
+<p align="center">
+  <a href="https://dannobre.dev"><img src="assets/header.png" alt="Hi, I'm Daniel Nobre — Mobile Developer & UX/UI Designer. I build iOS, Android and React Native apps and write about what I learn along the way." width="100%"></a>
+</p>
 
-![GitHub Animation Final (1)](https://github.com/user-attachments/assets/f47c2b90-6ed0-4545-8891-05cb3e5e16bc)
+### About me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-nobre&label=Profile%20views&color=0e75b6&style=flat" alt="dan-nobre" /> </p>
+From Fortaleza, Brazil. Computer Science student, Apple Developer Academy alumni and iOS & Android mentor. Off the keyboard: pixel art, anime and the beach. 🌊
 
-<img width="1584" alt="GithubCover2" src="https://github.com/user-attachments/assets/0c6d5562-ad7c-4834-9a43-f2b52e26a127" />
-<br> </br>
+<p align="center">
+  <img src="assets/stack.png" alt="Stack: Swift, SwiftUI, Kotlin, Jetpack Compose, React Native, TypeScript, Next.js, Figma" width="100%">
+</p>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
-     <img width="512" alt="Danishin Emoji" src="https://github.com/user-attachments/assets/344960da-214a-45cd-bacd-4a808f183258" />
-    </td>
-    <td style="border: 0";>
-      <h3>
-        Mobile Developer, Designer and Pixel Artist
-      </h3>
-      <img src="https://img.shields.io/static/v1?label=Overview&message=Daniel Nobre&color=ccd1f1&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-      <br>
-      <br>
-      <p>
-        🌙  From Brazil, I'm studying Computer Science, love trying out new things and having fun playing games online, listening to music, learning pixel art, and going to the beach. 
-      </p>
-      <p>I'm also starting to create content in <a href="https://medium.com/@dan-nobre">@Dan-nobre</a></p>
-      <h3>Other places you can find me</h3>
-      <ul>
-        <li>
-          🫨 <a href="https://www.linkedin.com/in/dan-nobre/?locale=en_US">Conect with me in LinkedIn</a>
-        </li>
-        <li>
-          🖍️ <a href="https://medium.com/@dan-nobre">Follow me on Medium</a>
-        </li>
-         <li>
-          🗂️ <a href="https://dev.to/danishin">Follow me on Dev.to</a>
-        </li>
-        <br>
-      </ul>
-    </td>
-  </tr>
-</table>
+### Featured projects
 
+<p align="center">
+  <a href="https://dannobre.dev/projects/gympsi"><img src="assets/project-gympsi.png" alt="Gympsi" width="31%"></a>
+  <a href="https://dannobre.dev/projects/lazarus-into-the-dungeon"><img src="assets/project-lazarus.png" alt="Lazarus, Into the Dungeon" width="34%"></a>
+  <a href="https://dannobre.dev/projects"><img src="assets/project-dojodoro.png" alt="Dojodoro" width="31%"></a>
+</p>
 
+### Latest from the blog
 
+Notes on design systems, mobile and what I learn along the way → [dannobre.dev/blog](https://dannobre.dev/blog)
 
-<h3 align="left">Languages and Tools:</h3>
+### Let's connect
 
-[![My Skills](https://skillicons.dev/icons?i=apple,swift,figma,flutter,github,git,react,dart,js,c,html,css&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://dannobre.dev"><img src="assets/btn-site.png" alt="dannobre.dev" height="44"></a>
+  <a href="https://www.linkedin.com/in/dan-nobre/"><img src="assets/btn-linkedin.png" alt="LinkedIn" height="44"></a>
+  <a href="https://medium.com/@dan-nobre"><img src="assets/btn-medium.png" alt="Medium" height="44"></a>
+  <a href="https://www.behance.net/dan-nobre"><img src="assets/btn-behance.png" alt="Behance" height="44"></a>
+</p>
 
-<img width="1584" alt="GithubCover3" src="https://github.com/user-attachments/assets/c21d46b0-4d58-44bd-bd19-c73ccb4c0110" />
+<p align="center">
+  <img src="assets/footer.png" alt="Thanks for stopping by!" width="100%">
+</p>
 
-
-
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dan-Nobre&color=3b82f6&style=flat-square" alt="Profile views">
+</p>
