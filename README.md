@@ -20,12 +20,12 @@ From Fortaleza, Brazil. Computer Science student, Apple Developer Academy alumni
 
 ### Latest from the blog
 
-Notes on design systems, mobile and what I learn along the way → [dannobre.dev/blog](https://dannobre.dev/blog)
+Notes on design systems, mobile and what I learn along the way → [dannobre.com.br/blog](https://dannobre.com.br/blog)
 
 ### Let's connect
 
 <p align="center">
-  <a href="https://dannobre.dev"><img src="assets/btn-site.png" alt="dannobre.dev" height="44"></a>
+  <a href="https://dannobre.com.br"><img src="assets/btn-site.png" alt="dannobre.com.br" height="44"></a>
   <a href="https://www.linkedin.com/in/dan-nobre/"><img src="assets/btn-linkedin.png" alt="LinkedIn" height="44"></a>
   <a href="https://medium.com/@dan-nobre"><img src="assets/btn-medium.png" alt="Medium" height="44"></a>
   <a href="https://www.behance.net/dan-nobre"><img src="assets/btn-behance.png" alt="Behance" height="44"></a>
